@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Start Screen.unity
+    guid: 34e701f5c11a7ac498cd8667415e504e
+  - enabled: 1
+    path: Assets/Rob A Spaceship.unity
+    guid: 498b5e7fdef5c1e43a1e377c82251fc3
+  - enabled: 1
     path: Assets/Scenes/Testing Scene.unity
     guid: 99c9720ab356a0642a771bea13969a05
   m_configObjects:
